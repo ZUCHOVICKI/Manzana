@@ -1,0 +1,57 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    
+}
+.Title{
+    font-family: 'Jomhuria', cursive;
+    text-align: center;
+    font-size: 25vh;
+    color: #E09BF8;
+    
+}
+.Title2{
+    font-family: 'Jomhuria', cursive;
+    text-align: center;
+    font-size: 12vh;
+    margin-top: -50px;
+}
+.right{
+    background-image: url("img/Titulo.jpeg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 120vh; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.left{
+    height: 120vh;
+    background: rgb(159,72,187);
+background: linear-gradient(90deg, rgba(159,72,187,1) 0%, rgba(5,13,32,1) 100%);
+}
+
+.BotonInicio{
+    font-family: 'Jomhuria', cursive;
+    font-size: 6vh;
+    height: 10vh;
+   width: 100%;
+}
+#BodyMain{
+    background: rgb(159,72,187);
+    background: linear-gradient(90deg, rgba(159,72,187,1) 0%, rgba(91,15,97,1) 100%);
+}
+
+.BigIcon{
+    height: 6vh;
+    width: 10vh;
+}
+
+.Text{
+    font-family: 'Jomhuria', cursive;
+    font-size: 4vh;
+}
